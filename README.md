@@ -1,16 +1,16 @@
-## Hi there 👋
+I'm a backend/data software engineer interested in distributed systems, infrastructure, databases, and ML systems.
 
-<!--
-**apannala13/apannala13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These days I am:
 
-Here are some ideas to get you started:
+- Building backend services and data-intensive systems
+- Studying distributed systems, operating systems, and machine learning through Georgia Tech OMSCS
+- Working with Python, TypeScript, SQL, AWS, Postgres, and increasingly Go/C++
+- Preparing for backend SWE roles focused on scalable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some things I'm interested in:
+
+- Distributed systems
+- Databases and caching
+- ML serving infrastructure
+- Real-time data pipelines
+- System design
